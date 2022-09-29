@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Relative Siair</string>
+    <string-array name="array_nama">
+        <item>Raditya Putra</item>
+        <item>Rian Aji</item>
+        <item>Can</item>
+        <item>Wiwi</item>
+    </string-array>
 </resources>
